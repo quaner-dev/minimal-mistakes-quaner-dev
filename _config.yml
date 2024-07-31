@@ -16,19 +16,19 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : false
+rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Quaner's Blog"
 title_separator          : "-"
-subtitle                 : "A personal site"
+subtitle                 : "A personal site" # site tagline that appears below site title in masthead
 name                     : "Quaner"
 description              : "A blog for recording technical documents and learning experiences."
-url                      : "https://quaner-dev.github.io"
+url                      : "https://quaner-dev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "quaner-dev/quaner-dev.github.io"
+repository               : "quaner-dev/quaner-dev.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/masthead_logo.png"
+logo                     : "/assets/images/masthead_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
