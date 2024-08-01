@@ -325,3 +325,7 @@ defaults:
       comments: true # true
       share: true
       related: true
+
+page:
+  header:
+    image: "/assets/images/masthead_logo.png"
