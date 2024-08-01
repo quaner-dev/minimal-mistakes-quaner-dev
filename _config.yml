@@ -328,4 +328,5 @@ defaults:
 
 page:
   header:
-    image: "/assets/images/masthead_logo.png"
+    image: true
+    overlay_image: "/assets/images/masthead_logo.png"
