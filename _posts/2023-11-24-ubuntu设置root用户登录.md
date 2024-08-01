@@ -1,13 +1,3 @@
----
-layout: post
-title: Ubuntu设置root用户登录
-date: 2023-11-24
-description: Ubuntu设定root登录
-tags: ssh
-chart:
-  vega_lite: true
----
-
 # ubuntu设置root用户登录
 
 ## 设置root用户密码

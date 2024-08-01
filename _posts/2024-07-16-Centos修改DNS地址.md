@@ -1,11 +1,3 @@
----
-layout: post
-title: Centos修改DNS地址
-date: 2024-07-16
-description: 修改DNS
-tags: dns
----
-
 # Centos修改DNS地址
 
 ## 修改DNS地址

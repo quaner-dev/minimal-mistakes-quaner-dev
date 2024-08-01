@@ -1,11 +1,3 @@
----
-layout: post
-title: Centos修改yum源为阿里源
-date: 2024-07-16
-description: 修改yum源
-tags: repo
----
-
 # Centos修改yum源为阿里源
 
 ## 备份系统自带yum源配置文件
