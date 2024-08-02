@@ -21,7 +21,7 @@ title                    : "Quaner's Blog"
 title_separator          : "-"
 subtitle                 : "A technical blog." # site tagline that appears below site title in masthead
 name                     : "Quaner"
-description              : "A blog for recording technical documents and learning experiences."
+description              : ""
 url                      : "https://quaner-dev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "quaner-dev/quaner-dev.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
