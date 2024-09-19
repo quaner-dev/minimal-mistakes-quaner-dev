@@ -1,6 +1,6 @@
-# Centos修改DNS地址
+# Centos 修改 DNS 地址
 
-## 修改DNS地址
+## 修改 DNS 地址
 
 ```shell
 vim /etc/resolv.conf

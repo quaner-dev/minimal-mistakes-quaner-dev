@@ -1,12 +1,12 @@
-# Centos修改yum源为阿里源
+# Centos 修改 yum 源为阿里源
 
-## 备份系统自带yum源配置文件
+## 备份系统自带 yum 源配置文件
 
 ```shell
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
 ```
 
-## 下载ailiyun的yum源配置文件
+## 下载 ailiyun 的 yum 源配置文件
 
 ### CentOS7
 
